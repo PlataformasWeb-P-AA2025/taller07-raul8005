@@ -25,4 +25,4 @@ python consulta_datos2.py
 python consulta_datos3.py
 python consulta_datos4.py
 ```
-* Verificar que la información obtenida sea la correcta
+* Verificar que la información obtenida sea la correctax
